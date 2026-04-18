@@ -57,6 +57,10 @@ export default async function handler(
         return res.status(400).json({ error: 'Invalid payload' });
       }
 
+      if (payload.products.length === 0) {
+        return res.status(400).json({ error: 'Refusing to replace data with an empty product list.' });
+      }
+
       // Transform app format to Supabase format and upsert
       const productsToUpsert = payload.products.map((p: any) => ({
         id: p.id,

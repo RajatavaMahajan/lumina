@@ -104,6 +104,7 @@ export default function App() {
   const [columns, setColumns] = useState<string[]>(['Product Name', 'Rate']);
   const [products, setProducts] = useState<Product[]>([]);
   const [isLoading, setIsLoading] = useState(true);
+  const [hasLoadedInitialData, setHasLoadedInitialData] = useState(false);
   const [syncError, setSyncError] = useState('');
   const [searchQuery, setSearchQuery] = useState('');
   const [isProductModalOpen, setIsProductModalOpen] = useState(false);
@@ -131,9 +132,11 @@ export default function App() {
         setColumns(nextData.columns);
         setProducts(nextData.products);
         lastSavedRef.current = JSON.stringify(nextData);
+        setHasLoadedInitialData(true);
       } catch (error) {
         const message = error instanceof Error ? error.message : 'Failed to load data.';
         setSyncError(message);
+        setHasLoadedInitialData(false);
       } finally {
         setIsLoading(false);
       }
@@ -148,6 +151,10 @@ export default function App() {
   }, [columns, products]);
 
   useEffect(() => {
+    if (!hasLoadedInitialData || isLoading) {
+      return;
+    }
+
     if (syncPayload === lastSavedRef.current) {
       return;
     }
@@ -164,7 +171,7 @@ export default function App() {
     }, 200);
 
     return () => window.clearTimeout(timer);
-  }, [columns, products, syncPayload]);
+  }, [columns, products, syncPayload, hasLoadedInitialData, isLoading]);
 
   // --- Handlers ---
   const handleAddProduct = (e: React.FormEvent<HTMLFormElement>) => {
