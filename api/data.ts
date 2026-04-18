@@ -13,56 +13,13 @@ interface StoreData {
 
 const SUPABASE_URL = process.env.SUPABASE_URL || '';
 const SUPABASE_KEY = process.env.SUPABASE_ANON_KEY || '';
-const APP_AUTH_USERNAME = process.env.APP_AUTH_USERNAME || 'admin';
-const APP_AUTH_PASSWORD = process.env.APP_AUTH_PASSWORD || 'admin123';
 
 const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
-
-const unauthorized = (res: VercelResponse) => {
-  return res.status(401).json({ error: 'Unauthorized' });
-};
-
-function checkAuth(req: VercelRequest, res: VercelResponse): boolean {
-  const authHeader = req.headers.authorization;
-  if (!authHeader || !authHeader.startsWith('Basic ')) {
-    unauthorized(res);
-    return false;
-  }
-
-  try {
-    const encoded = authHeader.slice('Basic '.length);
-    const decoded = Buffer.from(encoded, 'base64').toString('utf8');
-    const separator = decoded.indexOf(':');
-
-    if (separator < 0) {
-      unauthorized(res);
-      return false;
-    }
-
-    const username = decoded.slice(0, separator);
-    const password = decoded.slice(separator + 1);
-
-    if (username !== APP_AUTH_USERNAME || password !== APP_AUTH_PASSWORD) {
-      unauthorized(res);
-      return false;
-    }
-
-    return true;
-  } catch {
-    unauthorized(res);
-    return false;
-  }
-}
 
 export default async function handler(
   req: VercelRequest,
   res: VercelResponse
 ): Promise<void> {
-  // Check authentication
-  if (!checkAuth(req, res)) {
-    return;
-  }
-
   if (req.method === 'GET') {
     try {
       const { data, error } = await supabase
@@ -108,7 +65,6 @@ export default async function handler(
       }));
 
       // Delete all existing products and insert new ones
-      // (or use upsert if all products have IDs)
       const { error: deleteError } = await supabase
         .from('products')
         .delete()

@@ -9,8 +9,6 @@ import {
   X,
   Package,
   ArrowUpDown,
-  LogOut,
-  ShieldCheck
 } from 'lucide-react';
 
 // --- Types ---
@@ -24,30 +22,13 @@ interface StoreData {
   products: Product[];
 }
 
-interface Credentials {
-  username: string;
-  password: string;
-}
-
 const defaultStore: StoreData = {
   columns: ['Product Name', 'Rate'],
   products: [],
 };
 
-const toBasicAuth = (credentials: Credentials) => {
-  return `Basic ${btoa(`${credentials.username}:${credentials.password}`)}`;
-};
-
-const requestData = async (credentials: Credentials): Promise<StoreData> => {
-  const response = await fetch('/api/data', {
-    headers: {
-      Authorization: toBasicAuth(credentials),
-    },
-  });
-
-  if (response.status === 401) {
-    throw new Error('Invalid username or password.');
-  }
+const requestData = async (): Promise<StoreData> => {
+  const response = await fetch('/api/data');
 
   if (!response.ok) {
     throw new Error('Failed to load data from server.');
@@ -56,19 +37,14 @@ const requestData = async (credentials: Credentials): Promise<StoreData> => {
   return response.json();
 };
 
-const saveData = async (credentials: Credentials, payload: StoreData) => {
+const saveData = async (payload: StoreData) => {
   const response = await fetch('/api/data', {
     method: 'PUT',
     headers: {
       'Content-Type': 'application/json',
-      Authorization: toBasicAuth(credentials),
     },
     body: JSON.stringify(payload),
   });
-
-  if (response.status === 401) {
-    throw new Error('Session expired. Please login again.');
-  }
 
   if (!response.ok) {
     throw new Error('Failed to persist data.');
@@ -127,14 +103,7 @@ export default function App() {
   // --- State ---
   const [columns, setColumns] = useState<string[]>(['Product Name', 'Rate']);
   const [products, setProducts] = useState<Product[]>([]);
-  const [credentials, setCredentials] = useState<Credentials | null>(null);
-  const [loginUsername, setLoginUsername] = useState('');
-  const [loginPassword, setLoginPassword] = useState('');
-  const [isAuthenticated, setIsAuthenticated] = useState(false);
-  const [isAuthLoading, setIsAuthLoading] = useState(false);
-  const [isBootingAuth, setIsBootingAuth] = useState(true);
-  const [isReadyToSync, setIsReadyToSync] = useState(false);
-  const [authError, setAuthError] = useState('');
+  const [isLoading, setIsLoading] = useState(true);
   const [syncError, setSyncError] = useState('');
   const [searchQuery, setSearchQuery] = useState('');
   const [isProductModalOpen, setIsProductModalOpen] = useState(false);
@@ -150,83 +119,42 @@ export default function App() {
   const [bulkImportMode, setBulkImportMode] = useState<'add-only' | 'add-update'>('add-only');
   const lastSavedRef = useRef('');
 
-  // --- Auth + Server Data ---
+  // --- Load Data on Mount ---
   useEffect(() => {
-    const storedUsername = sessionStorage.getItem('lumina_auth_username');
-    const storedPassword = sessionStorage.getItem('lumina_auth_password');
+    const loadData = async () => {
+      try {
+        const data = await requestData();
+        const nextData: StoreData = {
+          columns: Array.isArray(data.columns) ? data.columns : defaultStore.columns,
+          products: Array.isArray(data.products) ? data.products : defaultStore.products,
+        };
+        setColumns(nextData.columns);
+        setProducts(nextData.products);
+        lastSavedRef.current = JSON.stringify(nextData);
+      } catch (error) {
+        const message = error instanceof Error ? error.message : 'Failed to load data.';
+        setSyncError(message);
+      } finally {
+        setIsLoading(false);
+      }
+    };
 
-    if (!storedUsername || !storedPassword) {
-      setIsBootingAuth(false);
-      return;
-    }
-
-    setLoginUsername(storedUsername);
-    setLoginPassword(storedPassword);
-    void login(storedUsername, storedPassword, true);
+    void loadData();
   }, []);
 
-  const login = async (username: string, password: string, silent = false) => {
-    setAuthError('');
-    setSyncError('');
-    if (!silent) {
-      setIsAuthLoading(true);
-    }
-
-    try {
-      const creds = {username, password};
-      const data = await requestData(creds);
-      const nextData: StoreData = {
-        columns: Array.isArray(data.columns) ? data.columns : defaultStore.columns,
-        products: Array.isArray(data.products) ? data.products : defaultStore.products,
-      };
-
-      setColumns(nextData.columns);
-      setProducts(nextData.products);
-      setCredentials(creds);
-      setIsAuthenticated(true);
-      setIsReadyToSync(true);
-      lastSavedRef.current = JSON.stringify(nextData);
-      sessionStorage.setItem('lumina_auth_username', username);
-      sessionStorage.setItem('lumina_auth_password', password);
-    } catch (error) {
-      const message = error instanceof Error ? error.message : 'Login failed.';
-      setAuthError(message);
-      setIsAuthenticated(false);
-      setCredentials(null);
-      setIsReadyToSync(false);
-      sessionStorage.removeItem('lumina_auth_username');
-      sessionStorage.removeItem('lumina_auth_password');
-    } finally {
-      setIsBootingAuth(false);
-      setIsAuthLoading(false);
-    }
-  };
-
-  const handleLogout = () => {
-    setIsAuthenticated(false);
-    setCredentials(null);
-    setIsReadyToSync(false);
-    setAuthError('');
-    sessionStorage.removeItem('lumina_auth_username');
-    sessionStorage.removeItem('lumina_auth_password');
-  };
-
+  // --- Auto-sync to Server ---
   const syncPayload = useMemo(() => {
     return JSON.stringify({columns, products});
   }, [columns, products]);
 
   useEffect(() => {
-    if (!isAuthenticated || !credentials || !isReadyToSync) {
-      return;
-    }
-
     if (syncPayload === lastSavedRef.current) {
       return;
     }
 
     const timer = window.setTimeout(async () => {
       try {
-        await saveData(credentials, {columns, products});
+        await saveData({columns, products});
         lastSavedRef.current = syncPayload;
         setSyncError('');
       } catch (error) {
@@ -236,12 +164,7 @@ export default function App() {
     }, 200);
 
     return () => window.clearTimeout(timer);
-  }, [columns, products, syncPayload, credentials, isAuthenticated, isReadyToSync]);
-
-  const handleLoginSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
-    e.preventDefault();
-    await login(loginUsername.trim(), loginPassword);
-  };
+  }, [columns, products, syncPayload]);
 
   // --- Handlers ---
   const handleAddProduct = (e: React.FormEvent<HTMLFormElement>) => {
@@ -450,67 +373,11 @@ export default function App() {
       });
   }, [products, columns, searchQuery]);
 
-  if (isBootingAuth) {
+  if (isLoading) {
     return (
       <div className="min-h-screen bg-[#f9fafb] p-4 md:p-8 font-sans flex items-center justify-center">
         <div className="bg-white border border-slate-200 rounded-2xl px-6 py-5 card-shadow text-slate-600 font-medium">
-          Connecting to server...
-        </div>
-      </div>
-    );
-  }
-
-  if (!isAuthenticated) {
-    return (
-      <div className="min-h-screen bg-[#f9fafb] p-4 md:p-8 font-sans flex items-center justify-center">
-        <div className="w-full max-w-md bg-white border border-slate-200 rounded-3xl p-6 md:p-8 card-shadow">
-          <div className="flex items-center gap-3 mb-5">
-            <div className="p-2 bg-indigo-600 rounded-xl shadow-lg shadow-indigo-200">
-              <ShieldCheck className="text-white" size={22} />
-            </div>
-            <div>
-              <h1 className="text-2xl font-bold text-slate-900">Lumina Access</h1>
-              <p className="text-sm text-slate-500">Login to access shared persistent data</p>
-            </div>
-          </div>
-
-          <form onSubmit={handleLoginSubmit} className="space-y-4">
-            <div>
-              <label className="block text-sm font-semibold text-slate-700 mb-1.5">Name</label>
-              <input
-                type="text"
-                value={loginUsername}
-                onChange={(e) => setLoginUsername(e.target.value)}
-                required
-                className="w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-xl focus:outline-none focus:ring-4 focus:ring-indigo-500/10 focus:border-indigo-500 transition-all text-slate-700"
-                placeholder="Enter username"
-              />
-            </div>
-
-            <div>
-              <label className="block text-sm font-semibold text-slate-700 mb-1.5">Password</label>
-              <input
-                type="password"
-                value={loginPassword}
-                onChange={(e) => setLoginPassword(e.target.value)}
-                required
-                className="w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-xl focus:outline-none focus:ring-4 focus:ring-indigo-500/10 focus:border-indigo-500 transition-all text-slate-700"
-                placeholder="Enter password"
-              />
-            </div>
-
-            {authError && (
-              <p className="text-sm text-rose-600 font-medium">{authError}</p>
-            )}
-
-            <button
-              type="submit"
-              disabled={isAuthLoading}
-              className="w-full px-4 py-2.5 bg-indigo-600 text-white rounded-xl font-medium hover:bg-indigo-700 transition-all shadow-lg shadow-indigo-100 disabled:opacity-60"
-            >
-              {isAuthLoading ? 'Signing in...' : 'Sign In'}
-            </button>
-          </form>
+          Loading products...
         </div>
       </div>
     );
@@ -528,13 +395,6 @@ export default function App() {
                 <Package className="text-white" size={24} />
               </div>
               <h1 className="text-3xl font-bold text-slate-900 tracking-tight">Lumina</h1>
-              <button
-                onClick={handleLogout}
-                className="ml-3 flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-slate-200 text-slate-600 hover:bg-slate-50 text-sm"
-              >
-                <LogOut size={14} />
-                Sign out
-              </button>
             </div>
             <p className="text-slate-500 font-medium flex flex-col md:flex-row md:items-center gap-1.5 md:gap-2">
               <span>Manage your inventory with precision.</span>
