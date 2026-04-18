@@ -1,0 +1,2188 @@
+{
+  "columns": [
+    "Product Name",
+    "Rate"
+  ],
+  "products": [
+    {
+      "id": "727e9ff1-b447-41bd-82c4-3bf4e1faccdf",
+      "Product Name": "gh",
+      "Rate": 456
+    },
+    {
+      "id": "9a53188f-fe1d-45f0-ba70-e294dce9d1c5",
+      "Product Name": "joketu",
+      "Rate": 799.99
+    },
+    {
+      "id": "01c8a9ac-e4e1-4aae-a95d-79117673d472",
+      "Product Name": "WHEEL CAP SET NEW DESING LEO",
+      "Rate": 110
+    },
+    {
+      "id": "7879a474-b49b-4e53-ac5a-a4c3be7c1029",
+      "Product Name": "E RICKSHAW FAN",
+      "Rate": 135
+    },
+    {
+      "id": "2dc3a28d-785b-4c46-9619-ef8fa0579c1d",
+      "Product Name": "BRAKE SHOE 14 NO. CY",
+      "Rate": 58
+    },
+    {
+      "id": "345e7cc5-db88-43df-89b4-53be563c90fa",
+      "Product Name": "IRON ROOF INDIAN BIG SQUARE 12 KG",
+      "Rate": 1200
+    },
+    {
+      "id": "5a1531cf-5b58-4c26-b1ea-d36b89efd328",
+      "Product Name": "IRON ROOF CHINESE NEW MODEL QSD",
+      "Rate": 1350
+    },
+    {
+      "id": "66dca060-a19a-4f75-b260-adcaf30ae393",
+      "Product Name": "OIL SEAL 25 35 7 (ME)",
+      "Rate": 150
+    },
+    {
+      "id": "85db87b0-964c-4af5-927d-9d30aa04e8a7",
+      "Product Name": "CHARGING SHOCKET SET AXIOM AAHANA",
+      "Rate": 84
+    },
+    {
+      "id": "60fd47d5-e62e-40ae-9057-79afbe945c27",
+      "Product Name": "REAR XL BUSH Heavy",
+      "Rate": 9
+    },
+    {
+      "id": "94ef0fb1-766a-453f-867c-0e0f087ba929",
+      "Product Name": "CONVERTER 20 AMP AAHANA WATER PROOF METAL",
+      "Rate": 270
+    },
+    {
+      "id": "1ad338e2-54a1-4406-abf3-4952eb98aa98",
+      "Product Name": "BEARING 999 GOLD 6005",
+      "Rate": 55
+    },
+    {
+      "id": "0332e6a6-1a98-4c03-b2e5-1c9b3b22f84d",
+      "Product Name": "BEARING 999 GOLD 6006",
+      "Rate": 60
+    },
+    {
+      "id": "aaa37d0f-753a-474b-bbe1-73cab88ec75c",
+      "Product Name": "BEARING 999 GOLD 30205",
+      "Rate": 150
+    },
+    {
+      "id": "16d428f6-1257-4665-93c6-b2b6b9c64125",
+      "Product Name": "BEARING 999 GOLD 6205",
+      "Rate": 63
+    },
+    {
+      "id": "6c047578-70ea-4b39-9eea-67ed789221e8",
+      "Product Name": "BEARING 999 GOLD 6302",
+      "Rate": 48
+    },
+    {
+      "id": "f8791c12-db0e-404a-933f-bbf87b9fb2af",
+      "Product Name": "BACK INDICATOR ROUND DRL LED RED (ME)",
+      "Rate": 48
+    },
+    {
+      "id": "308d1fce-984b-483f-947c-ac39a1cb11f1",
+      "Product Name": "MULTI HUB CHINA QSD 6302",
+      "Rate": 205
+    },
+    {
+      "id": "3d6d220d-6e82-4cd4-9a37-9d4c12d25cde",
+      "Product Name": "KAMANI SET HEAVY OSD SUP-9 MATERIAL 6 PATTI 999",
+      "Rate": 1100
+    },
+    {
+      "id": "c470094d-0c74-447a-bdf2-c0e4769b8cf8",
+      "Product Name": "KAAN RUBBER SET 43 MM",
+      "Rate": 9
+    },
+    {
+      "id": "c3137d28-e736-4346-97e8-465e9dbc6cf1",
+      "Product Name": "HYDROLIC SHOCKER 43 MM AAHANA 10 KG WITH SINGLE BOX PACKING",
+      "Rate": 2000
+    },
+    {
+      "id": "08700001-7de7-46f4-aca5-6e36424a981e",
+      "Product Name": "IGNITION LOCK CY ORIGINAL",
+      "Rate": 32
+    },
+    {
+      "id": "a1a5ab47-7bb5-4331-8911-61e00e089d2d",
+      "Product Name": "MANDIR 18 T NEW AAHANA",
+      "Rate": 315
+    },
+    {
+      "id": "a070f166-e017-4e35-a7bf-f41a4adf92ff",
+      "Product Name": "MANDIR GEAR NEW 18 T FRESH 999",
+      "Rate": 405
+    },
+    {
+      "id": "85a5ca5a-6f33-44b6-98ce-241969ec1e50",
+      "Product Name": "WIPER MOTOR SET WITH BLADE",
+      "Rate": 380
+    },
+    {
+      "id": "1921e631-2370-46d3-b98f-970e5afb794d",
+      "Product Name": "MOTOR 1500 WATT BIG FOR LOADER 60V WITH GEAR",
+      "Rate": 8400
+    },
+    {
+      "id": "6bf35e23-eb2c-4af4-9f79-05c745366f38",
+      "Product Name": "CONTROLLER FOR LOADER BIG QSD 60V 1500 WATT",
+      "Rate": 5200
+    },
+    {
+      "id": "2815b48d-d734-459a-8cb0-ccad4b58e304",
+      "Product Name": "BRAKE ROD 18 INC",
+      "Rate": 27
+    },
+    {
+      "id": "c6cabf60-f156-40a6-ac5a-a1061dd332be",
+      "Product Name": "BRAKE ROD 20 INC",
+      "Rate": 28
+    },
+    {
+      "id": "320dee74-9735-4a4f-b24d-6aceac6ddaf4",
+      "Product Name": "BRAKE ROD 22 INC",
+      "Rate": 29
+    },
+    {
+      "id": "d3bf9995-4bdd-4856-ae38-6ada9546aa22",
+      "Product Name": "BRAKE ROD 24 INC",
+      "Rate": 32
+    },
+    {
+      "id": "b4dc6361-2833-4fe3-a135-e5a3073e92df",
+      "Product Name": "BRAKE ROD 27 INC",
+      "Rate": 35
+    },
+    {
+      "id": "cf897567-7fef-4a33-b43c-814a236ad8fd",
+      "Product Name": "BRAKE ROD 30 INC",
+      "Rate": 38
+    },
+    {
+      "id": "6b6a7b17-e90f-4ae2-99df-2811146c2397",
+      "Product Name": "BRAKE ROD 33 INC",
+      "Rate": 40
+    },
+    {
+      "id": "7ff260d8-686d-46da-ab9d-e97afa905860",
+      "Product Name": "BRAKE ROD 36 INC",
+      "Rate": 42
+    },
+    {
+      "id": "6b2a24fb-35ed-450c-881d-39fcd4e4bcaf",
+      "Product Name": "BRAKE ROD 39 INC",
+      "Rate": 45
+    },
+    {
+      "id": "08ae4402-df84-4f71-a150-5ec80a59c541",
+      "Product Name": "BRAKE ROD 40 INC",
+      "Rate": 45
+    },
+    {
+      "id": "56146086-14ca-4651-8c10-756092989916",
+      "Product Name": "BRAKE ROD 42 INC",
+      "Rate": 48
+    },
+    {
+      "id": "2ad0d6bd-4332-4cc3-afbd-dc2ca1bca5f2",
+      "Product Name": "BACK INDICATOR I CAT LED APE (ME)",
+      "Rate": 95
+    },
+    {
+      "id": "2049b92c-24d8-47dd-b7d6-e2bbeb542d5f",
+      "Product Name": "DIFFENCIAL 35 INC 999 GOLD",
+      "Rate": 4500
+    },
+    {
+      "id": "98a01234-65db-482d-b17f-45b0e353f239",
+      "Product Name": "IRON ROOF INDIAN COLOUR BIG",
+      "Rate": 1150
+    },
+    {
+      "id": "eea46b9b-7930-4498-bf4f-014982150705",
+      "Product Name": "FLASHER WITH BUZZER 2 PIN OEM TYPE (ME)",
+      "Rate": 35
+    },
+    {
+      "id": "6eebca34-c3f4-4cf8-9057-049b483a1a71",
+      "Product Name": "HYDROLIC SHOCKER 43 MM WITH SPRING 31 INC 999 GOLD BOX PACK",
+      "Rate": 2750
+    },
+    {
+      "id": "f897b638-58f1-4253-b31a-a3c5a33d9886",
+      "Product Name": "REAR DRUM 14 NO. AAHANA QSD CHINESE",
+      "Rate": 315
+    },
+    {
+      "id": "b3d595a4-b624-459a-b90c-6bb88abd84fe",
+      "Product Name": "MOTOR 1200 WATT 48V 999",
+      "Rate": 5250
+    },
+    {
+      "id": "34a53b68-a219-4009-87bb-c09ac4f870d3",
+      "Product Name": "ALLOY WHEEL RIM COLOUR HEAVY",
+      "Rate": 890
+    },
+    {
+      "id": "25a5536a-91cc-4ee2-8610-a63a306b97d4",
+      "Product Name": "BEARING 999 GOLD 32005",
+      "Rate": 150
+    },
+    {
+      "id": "4e7e4a13-1820-4196-8738-2d92b2d4d877",
+      "Product Name": "ONLY GLASS 27.5/28.5 INC INDIAN",
+      "Rate": 500
+    },
+    {
+      "id": "8628b0c5-8f01-4a5f-9008-ae307429b5fa",
+      "Product Name": "GLASS RUBBER 27.5/28.5 DSP",
+      "Rate": 350
+    },
+    {
+      "id": "6c571db9-cafd-4713-82ce-864ffe4205e1",
+      "Product Name": "KAMANI JHULA EXTRA HEAVY WITH LOCK NUT AAHANA",
+      "Rate": 50
+    },
+    {
+      "id": "4b11f45c-dae0-4fab-a97a-d66125d65760",
+      "Product Name": "ASSELATOR SINGLE UFENG WATERPROOF 999",
+      "Rate": 110
+    },
+    {
+      "id": "c8dfe6e6-aac8-4574-992b-8d5b1238b709",
+      "Product Name": "MOTOR SAFT 1200 WATT 216 MM 999",
+      "Rate": 200
+    },
+    {
+      "id": "22ca0759-82fa-4069-8a27-1c9b23772470",
+      "Product Name": "KAMANI SET QSD 7 PATTI CHINESE OEM TYPE",
+      "Rate": 1210
+    },
+    {
+      "id": "1421aba1-0074-4f69-8658-7559cf5ccf68",
+      "Product Name": "LEFT RIGHT SWITCH QSD",
+      "Rate": 128
+    },
+    {
+      "id": "125c2005-c55b-438f-b673-f1c1321c6352",
+      "Product Name": "JELLY BUSH BIG",
+      "Rate": 2
+    },
+    {
+      "id": "53a01831-df44-44cb-acb1-0f10ac81a654",
+      "Product Name": "METER FULL DIGITAL TAB WITH MEMORY NEW DESIGN AAHANA ORIGINAL WITH BACK CAP",
+      "Rate": 350
+    },
+    {
+      "id": "7e535d1e-6cec-4bb1-bacc-757c95a46e4d",
+      "Product Name": "BEARING 999 GOLD 6201",
+      "Rate": 38
+    },
+    {
+      "id": "18fdda4b-850a-4021-8e61-5af0e0d57618",
+      "Product Name": "BEARING 999 GOLD 6203",
+      "Rate": 45
+    },
+    {
+      "id": "431ba6fa-fa0d-4fe6-aa9c-a55081dfbc6e",
+      "Product Name": "TYRE RALCO 3/75/12 ROAD GRIP",
+      "Rate": 850
+    },
+    {
+      "id": "48ba5808-fb6c-48fc-bdff-451815243c94",
+      "Product Name": "CONTROLLER AAHANA INTELLIGENT GOLDEN 48V/60V 50 AMP",
+      "Rate": 1980
+    },
+    {
+      "id": "67fdf565-cc80-48ec-a306-1713abc82bca",
+      "Product Name": "BACK INDICATOR ROUND DRL LED WHITE (ME)",
+      "Rate": 48
+    },
+    {
+      "id": "23ef9cf4-401f-4aa6-930f-50f2fee9acbc",
+      "Product Name": "BACK INDICATOR ROUND DRL LED YELLOW (ME)",
+      "Rate": 48
+    },
+    {
+      "id": "a84d53ea-832b-417a-8119-3a29645ce270",
+      "Product Name": "MUD FLAP REAR BIG",
+      "Rate": 12
+    },
+    {
+      "id": "052c9878-4487-46da-a647-587a4e4a3f73",
+      "Product Name": "MOTOR 1000 WATT AAHANA GOLDEN HIGH QUALITY 4 WIRE 48V",
+      "Rate": 3800
+    },
+    {
+      "id": "a1d51248-7cad-4a01-88fb-9d4db04a7f82",
+      "Product Name": "FULL PARDA LEATHER OVER SIZE",
+      "Rate": 460
+    },
+    {
+      "id": "b715bba8-2bd4-4fb6-b4e6-9f9673d78448",
+      "Product Name": "CENTER MIRROR BIG OEM QUALITY (ME)",
+      "Rate": 65
+    },
+    {
+      "id": "6b53ae23-d4df-443b-8546-b4ab3e40abd8",
+      "Product Name": "ASSELATOR SINGLE UFENG COLOUR",
+      "Rate": 65
+    },
+    {
+      "id": "36280739-30e0-4819-9e2a-7509d5789643",
+      "Product Name": "KAMANI SET HEAVY (ME) 21 INC FLAT",
+      "Rate": 1050
+    },
+    {
+      "id": "6263e433-b774-4580-8dbd-f28b18273b3e",
+      "Product Name": "CHARGING SHOCKET HIGH QUALITY 10MM 999",
+      "Rate": 185
+    },
+    {
+      "id": "035a7b99-d1cb-44c2-a21e-269604219dd2",
+      "Product Name": "Parsenjer Hendel",
+      "Rate": 20
+    },
+    {
+      "id": "ee7b04d0-b1e1-4749-a626-0c8dad25f0e6",
+      "Product Name": "MUDGARD NUT",
+      "Rate": 3
+    },
+    {
+      "id": "8eef0f00-34d3-4900-9d8f-489f9af8f617",
+      "Product Name": "HANDLE TEE SET 43MM",
+      "Rate": 370
+    },
+    {
+      "id": "da426620-ce74-4d29-b90c-41089430a30e",
+      "Product Name": "SIDE MIRROR ROUND WITH CLIP I CAT 999",
+      "Rate": 120
+    },
+    {
+      "id": "3ced6492-1ead-4340-bc1f-eb4d20b4aa3f",
+      "Product Name": "REAR XL 18.2 INC 18 T",
+      "Rate": 140
+    },
+    {
+      "id": "e524bb85-1e7d-4d4d-8477-8712b3d175de",
+      "Product Name": "BRAKE SHOE 14 NO. AAHANA",
+      "Rate": 60
+    },
+    {
+      "id": "b3afceca-6de4-40fb-a649-669f13f1df89",
+      "Product Name": "RIM 12 NO. REAR BULLET PROFILE OEM TYPE 999",
+      "Rate": 430
+    },
+    {
+      "id": "4b98873a-821c-4d96-8392-156a7ddcb877",
+      "Product Name": "FULL PARDA PRINTED",
+      "Rate": 400
+    },
+    {
+      "id": "8cb18922-7517-40dc-b6e6-022b1154dbf6",
+      "Product Name": "SINGLE HORN WATER PROOF 999",
+      "Rate": 62
+    },
+    {
+      "id": "f9ea85f8-328c-45fa-b42e-68e66c0964b9",
+      "Product Name": "FRONT XL 15 MM 10.5 INC CHINA",
+      "Rate": 52
+    },
+    {
+      "id": "960f0798-9ef3-4137-9a23-3a769699cae7",
+      "Product Name": "BEARING 30205",
+      "Rate": 53
+    },
+    {
+      "id": "38278341-73a5-467a-8882-a174e9419b49",
+      "Product Name": "REAR DRUM 14 NO. AAHANA CY WITH STUD & NUT",
+      "Rate": 300
+    },
+    {
+      "id": "8fc8a1d8-6594-4902-a5a4-dab556425c3f",
+      "Product Name": "OIL SEAL 43 55 11.5",
+      "Rate": 320
+    },
+    {
+      "id": "b6436fb8-3cdb-4585-9d52-e15fecec9c1c",
+      "Product Name": "DUST CAP SEAL 43 55 10/16",
+      "Rate": 350
+    },
+    {
+      "id": "b3d4d449-b077-4a52-b2bb-9190cd11b149",
+      "Product Name": "FOG LIGHT 12 LED CYT",
+      "Rate": 90
+    },
+    {
+      "id": "d92cb622-e334-49ce-93d2-c8c1128c71e0",
+      "Product Name": "FOG LIGHT 12 LED CYT 999",
+      "Rate": 100
+    },
+    {
+      "id": "d97d650f-0bcb-455f-9218-d217baf78ca6",
+      "Product Name": "FOG LAMP G10 2 LENSE PVC",
+      "Rate": 70
+    },
+    {
+      "id": "e65405a9-4efb-4c7d-a501-7cf5e98da73c",
+      "Product Name": "FOG LIGHT 4 LENSE SPOTLIGHT PVC",
+      "Rate": 110
+    },
+    {
+      "id": "478d8cb5-4685-418f-ad1b-db8e67589a14",
+      "Product Name": "TYRE RALCO 3/75/12 ECO BLASTER",
+      "Rate": 840
+    },
+    {
+      "id": "77fc43c5-71fc-41c4-bf1f-e18a7ff68879",
+      "Product Name": "DIFFENCIAL 35 INC CY",
+      "Rate": 3600
+    },
+    {
+      "id": "45790343-3a4c-466c-9111-4dd95a901e9d",
+      "Product Name": "HAND BRAKE WIRE 12 INC",
+      "Rate": 25
+    },
+    {
+      "id": "ea0823d2-24a9-4cf6-ab36-eb6ca176c188",
+      "Product Name": "HAND BRAKE WIRE 15 INC",
+      "Rate": 25
+    },
+    {
+      "id": "ac7c7193-4cb9-42b3-a2ba-0b5f61320e92",
+      "Product Name": "HAND BRAKE WIRE 17 INC",
+      "Rate": 25
+    },
+    {
+      "id": "fab9016d-9cd8-4192-8fb5-726a3e2b5d7f",
+      "Product Name": "HAND BRAKE WIRE 18 INC",
+      "Rate": 25
+    },
+    {
+      "id": "3fe16065-9b65-4188-a265-256d372b6450",
+      "Product Name": "HAND BRAKE WIRE 19 INC",
+      "Rate": 25
+    },
+    {
+      "id": "9bb3f129-fcfe-4d6e-ad28-0c370af30c81",
+      "Product Name": "HAND BRAKE WIRE 20 INC",
+      "Rate": 25
+    },
+    {
+      "id": "3e6043d9-98e4-4a9a-85e3-b2955124577b",
+      "Product Name": "HAND BRAKE WIRE 21 INC",
+      "Rate": 25
+    },
+    {
+      "id": "b940c973-fabd-41e8-9807-3bd5ff4e93e1",
+      "Product Name": "HAND BRAKE WIRE 23 INC",
+      "Rate": 25
+    },
+    {
+      "id": "f3fba3dd-8a5e-4ecd-940f-c5eb5c1162a5",
+      "Product Name": "HAND BRAKE WIRE 30 INC",
+      "Rate": 30
+    },
+    {
+      "id": "093e6985-3e97-42f7-84c2-109ee437bba8",
+      "Product Name": "HAND BRAKE WIRE 33 INC",
+      "Rate": 30
+    },
+    {
+      "id": "ea4b5a6b-7ca7-434e-a82d-d4369f64fe96",
+      "Product Name": "HAND BRAKE WIRE 36 INC",
+      "Rate": 30
+    },
+    {
+      "id": "7c2d7443-37a6-40e2-bc24-9e519f269668",
+      "Product Name": "HAND BRAKE WIRE 40 INC",
+      "Rate": 35
+    },
+    {
+      "id": "47374958-f89e-4899-9c6c-d03f053e9e75",
+      "Product Name": "HAND BRAKE WIRE 42 INC",
+      "Rate": 40
+    },
+    {
+      "id": "5040d21e-37cc-410f-8fce-1b5e32685ab1",
+      "Product Name": "HAND BRAKE WIRE 52 INC",
+      "Rate": 45
+    },
+    {
+      "id": "7ad44a4b-1a43-40ed-928b-ca98d15d1472",
+      "Product Name": "SIDE MIRROR ROUND WITH CLIP I CAT (ME)",
+      "Rate": 115
+    },
+    {
+      "id": "43a2bdd5-fb85-476a-a4f6-c3c80f0d3432",
+      "Product Name": "HYDROLIC SHOCKER 43 MM CY CHROME SPRING AUDI DESIGN 8 KG GOLDEN",
+      "Rate": 1540
+    },
+    {
+      "id": "937dd890-b1ad-4257-b828-1e476b8b5781",
+      "Product Name": "CHIRA PIN BIG HEAVY",
+      "Rate": 80
+    },
+    {
+      "id": "ebd09fc9-72f2-4c2b-a79a-7f91bf0a2b96",
+      "Product Name": "BATTERY ROD 8 MM 12 INC",
+      "Rate": 12
+    },
+    {
+      "id": "781a98c9-a62c-4248-ba08-48af692c6e8f",
+      "Product Name": "FM SET HIGH QUALITY WITH BASE & SPEAKER",
+      "Rate": 360
+    },
+    {
+      "id": "e6fa153a-5fc6-4a26-8bff-edc6c7cb43dd",
+      "Product Name": "BRAKE SHOE CY 180 MM FOR LOADER",
+      "Rate": 100
+    },
+    {
+      "id": "4640c0c1-3a96-46e7-afd7-2948dc59b329",
+      "Product Name": "GLASS SET FITTED 31 SMALL SILVER",
+      "Rate": 1080
+    },
+    {
+      "id": "3b6bef3a-d01b-4e36-aa41-a806d66bc442",
+      "Product Name": "KAMANI SET HEAVY QSD SUP-9 MATERIAL 6 PATTI 999",
+      "Rate": 1080
+    },
+    {
+      "id": "f91047a9-4ace-4830-b7a4-d4eaaf466f8d",
+      "Product Name": "CHARGER CHINA HEAVY 999 NEW DESIGN DOUBLE FAN",
+      "Rate": 1900
+    },
+    {
+      "id": "74d77f9c-e2d8-4383-a451-cb1b15ae0bf6",
+      "Product Name": "HANDLE TEE SET 43 MM",
+      "Rate": 370
+    },
+    {
+      "id": "6352e378-0dcd-4995-81d3-4508c3a25215",
+      "Product Name": "METRO HANDLE TRANSPARENT SMALL",
+      "Rate": 17
+    },
+    {
+      "id": "5613e935-4950-4b9e-ab99-144e08391ba9",
+      "Product Name": "LEFT RIGHT SWITCH UFENG COLOUR",
+      "Rate": 125
+    },
+    {
+      "id": "ec541fb5-445b-4854-aad8-4b0200baadf3",
+      "Product Name": "SIDE MIRROR SET AAHANA CHROME",
+      "Rate": 90
+    },
+    {
+      "id": "3ad11a86-2aa0-4944-8ab3-e277ef866eb3",
+      "Product Name": "OIL SEAL 20 42 7 (ME)",
+      "Rate": 140
+    },
+    {
+      "id": "7bee6f1a-e9f1-4d1b-aa6f-e4778a290101",
+      "Product Name": "RIM 14 NO. REAR HEAVY BULLET PROFILE",
+      "Rate": 550
+    },
+    {
+      "id": "cf188dbe-b604-4804-9117-57e69aa3637d",
+      "Product Name": "CENTER LOCKING WITH REMOTE",
+      "Rate": 190
+    },
+    {
+      "id": "15ed0142-0f56-49c7-973c-f02678fff286",
+      "Product Name": "YELLOW BOX FOR LOADER 3 PIN",
+      "Rate": 16
+    },
+    {
+      "id": "49d0948d-c25a-4836-8432-b2d3e9a96058",
+      "Product Name": "STEPNY COVER BLACK CHINESE TYPE",
+      "Rate": 480
+    },
+    {
+      "id": "4a55980e-a8e8-45c4-a060-be37c7616416",
+      "Product Name": "STORAGE BOX",
+      "Rate": 110
+    },
+    {
+      "id": "7965bd77-e51c-47ee-a5ff-74f21e5281cc",
+      "Product Name": "WHEEL CAP BIG MULTY COLOUR",
+      "Rate": 110
+    },
+    {
+      "id": "9d9e7bf4-af60-4c7f-8cce-a9b96d0fadc4",
+      "Product Name": "TRINGULAR BUSH FOR LOADER",
+      "Rate": 7
+    },
+    {
+      "id": "1b9daa47-891b-4f23-9ad5-f0c1daf945d7",
+      "Product Name": "TYRE JK 90/90/12",
+      "Rate": 680
+    },
+    {
+      "id": "e6cb09f0-1a51-419a-9f4b-e571aa8488c4",
+      "Product Name": "KAMANI PLATE 4 MM HEAVY AAHANA",
+      "Rate": 30
+    },
+    {
+      "id": "ff28167d-bdba-489e-b16b-1c23fa640911",
+      "Product Name": "RIM 12 NO. REAR HEAVY ALLOY TYPE",
+      "Rate": 640
+    },
+    {
+      "id": "589381ae-3036-4704-9fe2-34c3b70f96ff",
+      "Product Name": "BATTERY TRAY",
+      "Rate": 20
+    },
+    {
+      "id": "34da1a9e-e788-41db-bde3-5ddab3087f11",
+      "Product Name": "METER FULL DIGITAL TAB AAHANA WITH MEMORY",
+      "Rate": 160
+    },
+    {
+      "id": "1b866bb1-aa3b-455d-b0de-525a48141adb",
+      "Product Name": "KAMANI BOLT",
+      "Rate": 15
+    },
+    {
+      "id": "897dff36-8b9b-4b7c-9bef-3f2f1ab9a621",
+      "Product Name": "METER FULL DIGITAL TAB CY OK",
+      "Rate": 160
+    },
+    {
+      "id": "aabe2271-a380-4896-9fd7-3e69a302a5d2",
+      "Product Name": "DOUBLE GEAR FRESH 999",
+      "Rate": 155
+    },
+    {
+      "id": "0f0130d1-f6ed-490e-b446-0ecf7e2d7656",
+      "Product Name": "WIPER BLADE WITH ARM",
+      "Rate": 60
+    },
+    {
+      "id": "57d42650-5250-4c20-a94d-be4fa3d10e8a",
+      "Product Name": "WIPER BLADE ONLY",
+      "Rate": 40
+    },
+    {
+      "id": "c9401f4c-e075-467e-bfc7-9f41247c6505",
+      "Product Name": "E-RICKSHAW NECK 30205 OEM TYPE",
+      "Rate": 240
+    },
+    {
+      "id": "32e211b6-099d-4984-8ec1-44e33f8e2d51",
+      "Product Name": "HANDLE TEE SET 43 MM 999",
+      "Rate": 720
+    },
+    {
+      "id": "2dd02ee1-b921-409a-8850-8bada02b0c8a",
+      "Product Name": "MOTOR SAFT 900 WATT 196 MM AAHANA",
+      "Rate": 125
+    },
+    {
+      "id": "cfcfbfbf-1e79-457b-86bc-e7b7ff53234c",
+      "Product Name": "REAR XL CHABHI",
+      "Rate": 150
+    },
+    {
+      "id": "53d8a53c-1033-4331-8674-d2d2dda29ffc",
+      "Product Name": "IGNITION LOCK AAHANA ORIGINAL",
+      "Rate": 32
+    },
+    {
+      "id": "8edb1e28-2579-4463-bcf7-66af2f4f02af",
+      "Product Name": "BALANCING ROD SET NORMAL 8 INC",
+      "Rate": 130
+    },
+    {
+      "id": "a91cf364-7efd-46eb-9bb8-1805d6157ee6",
+      "Product Name": "BEARING 32005",
+      "Rate": 53
+    },
+    {
+      "id": "9ec5be1f-6629-4916-a89b-e516ce0541fe",
+      "Product Name": "REAR XL 17.5 INC 18T",
+      "Rate": 135
+    },
+    {
+      "id": "44d39bed-a7d8-4df7-a65f-8304421b5b6f",
+      "Product Name": "MCB 63 AMP HEAVY DUTY OEM TYPE (ME)",
+      "Rate": 60
+    },
+    {
+      "id": "16b040ce-770a-4a5e-b232-2fea2a4e0a16",
+      "Product Name": "KAMANI SET QSD 6 PATTI CHINEESE",
+      "Rate": 930
+    },
+    {
+      "id": "7e0d021b-6f27-4fd5-a2a9-723ac52a22e6",
+      "Product Name": "REAR XL NUT BLACK HEAVY",
+      "Rate": 13
+    },
+    {
+      "id": "70bb1f42-5bcb-4b24-9ab0-68922d662cf7",
+      "Product Name": "JACK SET HEAVY",
+      "Rate": 300
+    },
+    {
+      "id": "366690b0-0fbc-4824-aa3c-fc14bc583418",
+      "Product Name": "MOBILE STAND WITH USB CHARGER",
+      "Rate": 160
+    },
+    {
+      "id": "d82640db-22de-41b9-870e-7329c6f11179",
+      "Product Name": "MOTOR SAFT 1000 WATT 206 MM AAHANA",
+      "Rate": 140
+    },
+    {
+      "id": "16cd29b0-e9c8-44e4-975d-75150c023411",
+      "Product Name": "MUD FLAP REAR BIG CNG",
+      "Rate": 16
+    },
+    {
+      "id": "8cbf7d9e-eda1-4bc9-a673-e8ff771c093b",
+      "Product Name": "CHARGING SHOCKET SET AXIOM 10 MM OEM QUALITY (ME)",
+      "Rate": 170
+    },
+    {
+      "id": "3c003976-1d2e-4083-8a35-a08f5bf9ad64",
+      "Product Name": "FOG LIGHT 4 LENSE SPOTLIGHT",
+      "Rate": 150
+    },
+    {
+      "id": "e3868016-4cb1-4951-9c49-2adc5a498301",
+      "Product Name": "H4 BULB 4 LED",
+      "Rate": 65
+    },
+    {
+      "id": "4e57cac2-8701-484b-b920-a54faf0fca71",
+      "Product Name": "MOTOR 1000 WATT 999 48V 60V",
+      "Rate": 4500
+    },
+    {
+      "id": "6e76f00a-7cd2-4c8d-b838-e5d2c02c442e",
+      "Product Name": "BALANCING ROD SET NORMAL 14 INC",
+      "Rate": 155
+    },
+    {
+      "id": "542ac77b-ff7e-40b6-810d-96d98967c817",
+      "Product Name": "BALANCING ROD SET CHINA BLACK 18 INC",
+      "Rate": 200
+    },
+    {
+      "id": "80729da9-8471-44a7-a904-0f52a37c7285",
+      "Product Name": "BALANCING ROD SET NORMAL 20 INC",
+      "Rate": 200
+    },
+    {
+      "id": "8b49c993-ea69-4ed8-98f9-8c23e0bd41cb",
+      "Product Name": "ASSELATOR SINGLE DOUBLE BUTON COLOUR H/L/M",
+      "Rate": 80
+    },
+    {
+      "id": "0f4173d8-9cc5-423a-8062-d0d1ad72bf25",
+      "Product Name": "ASSELATOR SINGLE UFENG WATERPROOF AAHANA",
+      "Rate": 85
+    },
+    {
+      "id": "bce8a1c7-fba3-4ef2-9fce-69e682bb0a23",
+      "Product Name": "ONLY GLASS 31 INC CHINESE",
+      "Rate": 440
+    },
+    {
+      "id": "2f347d3d-f5f9-4406-91bf-338bfc9b147d",
+      "Product Name": "ASSELATOR SET UFENG I CAT 999",
+      "Rate": 165
+    },
+    {
+      "id": "fed1041c-4653-4c6f-921c-118a50a026a2",
+      "Product Name": "REAR XL 18.5 INC 18 T",
+      "Rate": 140
+    },
+    {
+      "id": "27cad6a4-a19a-4a96-8022-d3374af185b0",
+      "Product Name": "REAR XL 18 INC 18 T",
+      "Rate": 140
+    },
+    {
+      "id": "69a5bfa1-d51d-4c14-8c65-f9dfcfd3accc",
+      "Product Name": "OIL SEAL 32 55 7/8",
+      "Rate": 240
+    },
+    {
+      "id": "76736711-477b-4e2a-9b1e-cc291504c447",
+      "Product Name": "REAR DRUM 180 MM FOR LOADER CHINESE",
+      "Rate": 500
+    },
+    {
+      "id": "1c2b57f5-f652-4bf8-bcd3-6ca61faf3ea0",
+      "Product Name": "BRAKE SHOE LOCK",
+      "Rate": 60
+    },
+    {
+      "id": "2fc90a04-4cd1-4ac0-b8c6-00168910bbd5",
+      "Product Name": "KAMANI JHULA FOR LOADER BIG LONG",
+      "Rate": 80
+    },
+    {
+      "id": "84bc4b35-d5ec-4b37-b8ba-f4d416209f9a",
+      "Product Name": "KAMANI PLATE 5 HOLE WITH BOLT HEAVY",
+      "Rate": 40
+    },
+    {
+      "id": "1ddab3b3-5414-4d63-9757-9fd4f7958500",
+      "Product Name": "BEARING 999 GOLD 6206",
+      "Rate": 80
+    },
+    {
+      "id": "2548a3b1-b473-4feb-87e0-a91a19630862",
+      "Product Name": "CONTROLLER 999 INTELLIGENT 55 AMP",
+      "Rate": 2550
+    },
+    {
+      "id": "9c7414ad-ba1a-4376-92c2-d2634fcbe30d",
+      "Product Name": "CHARGING SHOCKET BIG BLACK",
+      "Rate": 35
+    },
+    {
+      "id": "b18b25df-2e36-4330-915c-3602e30118b2",
+      "Product Name": "MOTOR 1200 WATT AAHANA GOLDEN HIGH QUALITY 4 WIRE 48V",
+      "Rate": 4150
+    },
+    {
+      "id": "91970958-a918-4d60-981b-c470c084083d",
+      "Product Name": "CONTROLLER A5 TYPE QSD 1200 WATT 60 AMP 48/60V",
+      "Rate": 2600
+    },
+    {
+      "id": "c461a617-73f5-4859-8223-bae3b813277a",
+      "Product Name": "MOTOR 1200 WATT A5 TYPE SHAFTLESS QSD 4 WIRE 48/60V",
+      "Rate": 4200
+    },
+    {
+      "id": "8a306c2d-150c-4ec0-90e4-ff08ac594864",
+      "Product Name": "KAMANI SET HEAVY (ME) FOR LOADER 8 PATTI",
+      "Rate": 1280
+    },
+    {
+      "id": "3b2e8547-7d1e-44f2-abc3-3b4b96d6d5a0",
+      "Product Name": "MAIN HANDLE STEEL",
+      "Rate": 120
+    },
+    {
+      "id": "b937e5f2-05cd-43e7-8486-ab95c92036e6",
+      "Product Name": "MCB RED EXTRA HEAVY 999",
+      "Rate": 80
+    },
+    {
+      "id": "e217eaca-6af4-4e03-90e5-6ab5ee5a2f50",
+      "Product Name": "U BOLT HEAVY WITH LOCK NUT",
+      "Rate": 20
+    },
+    {
+      "id": "c060870b-f3c1-411f-b635-23e8fbf99cd3",
+      "Product Name": "OIL SEAL 20 42 7",
+      "Rate": 180
+    },
+    {
+      "id": "97760460-2a92-49af-87a4-f1f089cb2945",
+      "Product Name": "CHUHA SPRING",
+      "Rate": 4.5
+    },
+    {
+      "id": "2c66701f-26d2-4edc-aae1-29c2bbc841b2",
+      "Product Name": "CONTROLLER 999 INTELLIGENT 50 AMP",
+      "Rate": 2500
+    },
+    {
+      "id": "2794e54f-5e7e-4a7c-a547-d948524b35cb",
+      "Product Name": "WIRING HARNESS UFENG 10MM 999",
+      "Rate": 960
+    },
+    {
+      "id": "309651ac-7acd-4818-ad2a-732f4c2ff62d",
+      "Product Name": "WHEEL CAP SET BIG ECO SPORT",
+      "Rate": 130
+    },
+    {
+      "id": "ab8f203a-ddef-46b0-891b-9defbb93148c",
+      "Product Name": "CONVERTER 10 AMP CY",
+      "Rate": 85
+    },
+    {
+      "id": "3f5908d0-b114-4ac0-bddf-24c6cb90b4f7",
+      "Product Name": "FRONT XL BUSH SET 15 MM",
+      "Rate": 9
+    },
+    {
+      "id": "475a0b94-ee3a-4f21-84d3-7aa29a499333",
+      "Product Name": "BATTERY TIE",
+      "Rate": 25
+    },
+    {
+      "id": "c26a63e7-09ea-4f40-810c-cfabd698d75b",
+      "Product Name": "MOTOR COVER",
+      "Rate": 350
+    },
+    {
+      "id": "a4c2d2d2-4ded-46d6-8fc8-cf1a70f2603c",
+      "Product Name": "DRUM PLATE 14 NO. SMALL BHOGLI CHINESE",
+      "Rate": 95
+    },
+    {
+      "id": "6c69effd-a5e4-4c47-88ff-da987b837577",
+      "Product Name": "GEAR OIL ULTRA AXLE (ME)",
+      "Rate": 50
+    },
+    {
+      "id": "fe86458f-7abc-4d47-8e75-f1205a261b4a",
+      "Product Name": "SHOCKER OIL ULTRA 350 ML (ME)",
+      "Rate": 45
+    },
+    {
+      "id": "39a15374-6c5e-48f2-8965-0a938dcaba54",
+      "Product Name": "METER FULL DIGITAL TAB SODYCO WITH MEMORY",
+      "Rate": 145
+    },
+    {
+      "id": "f6f78c07-6242-48c2-9685-4f05143b87d4",
+      "Product Name": "DRUM STUD NUT",
+      "Rate": 5
+    },
+    {
+      "id": "a6d6190a-725e-4c13-bb89-e3a616c402c2",
+      "Product Name": "CONVERTER 10 AMP 999",
+      "Rate": 110
+    },
+    {
+      "id": "c55be874-71a0-4e61-8246-84e565817a59",
+      "Product Name": "CONVERTER 15 AMP 999",
+      "Rate": 185
+    },
+    {
+      "id": "29fa0ed3-f68a-4893-8bb9-2ff9d3f3eb42",
+      "Product Name": "CONTROLLER 999 GOLD 55 AMP 1200 WATT",
+      "Rate": 2850
+    },
+    {
+      "id": "2047b21e-6704-43fd-b6fb-8b1c3382e1ef",
+      "Product Name": "CONTROLLER AAHANA INTELLIGENT GOLDEN 1200 WATT 48/60 V 60 AMP",
+      "Rate": 2200
+    },
+    {
+      "id": "b966be07-b66a-492c-8890-af373726032f",
+      "Product Name": "CONTROLLER 999 UFENG",
+      "Rate": 1850
+    },
+    {
+      "id": "c4263b3a-77fb-4bcc-8ec8-89447a8aab53",
+      "Product Name": "OIL SEAL 43 55 11 (ME)",
+      "Rate": 240
+    },
+    {
+      "id": "8094d854-377e-4fa8-93db-bc504e34b76a",
+      "Product Name": "MOTOR L KEY BOLT",
+      "Rate": 2
+    },
+    {
+      "id": "5b50dd42-9ccf-4127-ab45-952387a4db34",
+      "Product Name": "DIFFENCIAL 33 INC CY COPY",
+      "Rate": 3500
+    },
+    {
+      "id": "3a9bc755-8c65-47e5-801d-c88fbe687cf7",
+      "Product Name": "HAND BRAKE WITH WIRE",
+      "Rate": 95
+    },
+    {
+      "id": "dfc9ec45-0ad0-4814-8444-65264c0dcce4",
+      "Product Name": "HAND BRAKE WIRE 27 INC*",
+      "Rate": 25
+    },
+    {
+      "id": "53552bbf-0d18-4ca0-8aed-3b9527c1e390",
+      "Product Name": "HYDROLIC SHOCKER 43 MM CY CHROME SPRING ORIGINAL AUDI DESING 8 KG",
+      "Rate": 1460
+    },
+    {
+      "id": "ca377ebb-f21a-4753-b586-67a548b440d3",
+      "Product Name": "METRO HANDLE YELLOW SMALL FANCY",
+      "Rate": 17
+    },
+    {
+      "id": "c872e86d-1d3a-4a47-8ade-a2ed87e42e82",
+      "Product Name": "METRO HANDLE YELLOW BIG FANCY",
+      "Rate": 23
+    },
+    {
+      "id": "9c58e931-26cd-41c5-a5ad-255d4c6cf0ab",
+      "Product Name": "DRUM STUD BIG",
+      "Rate": 7.5
+    },
+    {
+      "id": "79b411ce-4a14-4dd5-8771-b1bb39aac211",
+      "Product Name": "YELLOW BOX",
+      "Rate": 12
+    },
+    {
+      "id": "81e8dcf4-3dbe-47c8-aefe-a534b3c4a98f",
+      "Product Name": "THIMBLE FOR BATTERY EXTRA HEAVY 13 NO.",
+      "Rate": 5.5
+    },
+    {
+      "id": "d452fcfc-ea13-43cd-b6dd-18bb0fb396b3",
+      "Product Name": "METER FULL DIGITAL TAB 999 GOLD WITH MEMORY NEXT GENERATION",
+      "Rate": 520
+    },
+    {
+      "id": "06d5de67-f80d-4f1a-a97a-ecd043e72df4",
+      "Product Name": "SWITCH BUTTON FOR HORN",
+      "Rate": 5
+    },
+    {
+      "id": "ad2ef02c-0b9c-4811-b01c-772ef2e40d93",
+      "Product Name": "OIL SEAL 25 50 8 (ME)",
+      "Rate": 160
+    },
+    {
+      "id": "078ff68b-a012-4660-9ec6-992bded59005",
+      "Product Name": "OIL SEAL 25 50 8",
+      "Rate": 200
+    },
+    {
+      "id": "c19fcecd-7f88-4f91-8ba9-a4d7273cd9b9",
+      "Product Name": "MOTOR PACKING",
+      "Rate": 280
+    },
+    {
+      "id": "a2cd7f77-c752-431d-90dc-4bd18b37aa97",
+      "Product Name": "DIFFENCIAL GEAR PACKING 4 NO.",
+      "Rate": 6
+    },
+    {
+      "id": "74115eba-c1bf-4977-a6c2-512b37826460",
+      "Product Name": "MANDIR 16 T NEW AAHANA",
+      "Rate": 300
+    },
+    {
+      "id": "83ff5691-6aa5-4395-b13a-0b5e1d4476c4",
+      "Product Name": "FRONT MUDGUARD 43 MM HEAVY OEM TYPE",
+      "Rate": 130
+    },
+    {
+      "id": "0450c6ee-426f-40a0-a2e7-80e36efe287a",
+      "Product Name": "BACK HORN NAGIN OEM QUALITY (ME)",
+      "Rate": 65
+    },
+    {
+      "id": "eb0ef462-c914-497c-898f-3b2f79d454e9",
+      "Product Name": "BACK HORN SAARE JAHAN SE ACCHA OEM QUALITY (ME)",
+      "Rate": 65
+    },
+    {
+      "id": "c68c9e17-c2de-48e8-8fe4-41f3ea12ffe5",
+      "Product Name": "MOTOR SENSOR PLATE 1200/1500 WATT HEAVY",
+      "Rate": 70
+    },
+    {
+      "id": "2d7536e1-4dad-4058-86e0-d9d271168904",
+      "Product Name": "CONTROLLER FOR LOADER BIG 2000 WATT",
+      "Rate": 5900
+    },
+    {
+      "id": "15fc26a3-e43e-4804-bb92-dc3b2cc7ba68",
+      "Product Name": "MOTOR 2000 WATT LOADER BIG WITH GEAR",
+      "Rate": 9500
+    },
+    {
+      "id": "2555b8f4-5cd0-4aa6-9872-98e97a974afa",
+      "Product Name": "GEAR OIL",
+      "Rate": 45
+    },
+    {
+      "id": "148ca010-7bcc-4a86-ad08-fc16933896fe",
+      "Product Name": "METER FULL DIGITAL TAB WITH MEMORY NEW DESIGN AAHANA ORIGINAL",
+      "Rate": 310
+    },
+    {
+      "id": "b4f558da-8636-4c6e-bfe0-02d30ea658c6",
+      "Product Name": "IGNITION LOCK 999 GOLD",
+      "Rate": 80
+    },
+    {
+      "id": "57ac5bd6-0711-4e1c-bf00-4a3b39dabeb6",
+      "Product Name": "METER HALF DIGITAL 999",
+      "Rate": 300
+    },
+    {
+      "id": "ec36881e-340c-44c9-87ad-b7a5bf647583",
+      "Product Name": "METER FULL DIGITAL",
+      "Rate": 160
+    },
+    {
+      "id": "f33493e7-f206-42e6-b68d-b49e19a75461",
+      "Product Name": "BRAKE PADDLE SPORT CHINESE",
+      "Rate": 90
+    },
+    {
+      "id": "5705fc41-3526-4a78-a7e3-4c8a51d9fec6",
+      "Product Name": "MOTOR 1000 WATT CY OK 4 WIRE",
+      "Rate": 3550
+    },
+    {
+      "id": "623f4f42-705c-4ee3-bb9c-894b7eb88015",
+      "Product Name": "GLASS RUBBER 39 INC URBOSI",
+      "Rate": 300
+    },
+    {
+      "id": "a0153e96-bf1a-4846-bb32-7731361f2ea9",
+      "Product Name": "FOOT MAT SET DSP",
+      "Rate": 250
+    },
+    {
+      "id": "1c979368-8199-48ab-a229-53842834d788",
+      "Product Name": "REAR XL 17.2 INC 6 T",
+      "Rate": 280
+    },
+    {
+      "id": "e060129c-11c4-4bcb-8800-842807b215e8",
+      "Product Name": "REAR XL 17.5 INC 6 T",
+      "Rate": 280
+    },
+    {
+      "id": "7b97b24c-0540-4a33-b2ae-c40798e5acf1",
+      "Product Name": "KAMANI SET QSD 6 PATTI CHINESE*",
+      "Rate": 930
+    },
+    {
+      "id": "feab0a60-9e15-46b4-aa17-279c420e258f",
+      "Product Name": "FLASHER WITH BUZZER 3 PIN AAHANA",
+      "Rate": 35
+    },
+    {
+      "id": "e85c046b-3481-4afd-b19d-7ad2a6f57655",
+      "Product Name": "WIRING HARNESS UFENG 10MM (ME)",
+      "Rate": 850
+    },
+    {
+      "id": "52695f24-f881-437d-a682-bb65c41d2e4e",
+      "Product Name": "WIRING HARNESS QSD CHINA ORGINAL 999",
+      "Rate": 450
+    },
+    {
+      "id": "26651a56-b3af-4275-9047-3db48b2e5f23",
+      "Product Name": "HEAD LIGHT DOOM (KHOPRI) BIG",
+      "Rate": 30
+    },
+    {
+      "id": "82c50819-bfc8-4c91-ab5a-2c648e39c1a6",
+      "Product Name": "CONTROLLER 999 GOLD 50 AMP",
+      "Rate": 2650
+    },
+    {
+      "id": "0b4e49eb-0b56-4178-ad07-b8a19daee01c",
+      "Product Name": "BRAKE SHOE 180 MM FOR LOADER",
+      "Rate": 100
+    },
+    {
+      "id": "265bf89b-a836-422f-995a-aa26cb7e8dd6",
+      "Product Name": "SHOCKER PIPE 43 MM HEAVY (ME)",
+      "Rate": 470
+    },
+    {
+      "id": "fcb45f97-ab5f-456f-98c4-349db1ebe3a4",
+      "Product Name": "ASSELATOR SET DOUBLE BUTTON OEM TYPE 999 H/L/M",
+      "Rate": 180
+    },
+    {
+      "id": "f962fd28-0946-4909-9b6d-38f184a105cd",
+      "Product Name": "DRUM STUD",
+      "Rate": 5.5
+    },
+    {
+      "id": "e1dc7847-efd8-4496-a02a-518e0c3ccab6",
+      "Product Name": "THIMBLE JUNCTION BOX 8 NO.",
+      "Rate": 2
+    },
+    {
+      "id": "d017e1c7-618f-48ff-9633-bac9e804a234",
+      "Product Name": "IRON ROOF INDIAN COLOUR",
+      "Rate": 1100
+    },
+    {
+      "id": "5accc3e1-b1a1-4786-b665-32dacadbf990",
+      "Product Name": "REAR DRUM PULLER COLOUR",
+      "Rate": 210
+    },
+    {
+      "id": "4fc0463f-be76-47a9-a80a-c6897cc22bc7",
+      "Product Name": "REAR XL 17.5 INC 16T",
+      "Rate": 140
+    },
+    {
+      "id": "f58a37ee-ec47-47c9-b28a-954a78822cc2",
+      "Product Name": "GEAR BOX AAHANA SILVER 18-T",
+      "Rate": 1030
+    },
+    {
+      "id": "72981b32-8f55-4840-bc11-79842d02274a",
+      "Product Name": "KAMANI JHULA HEAVY WITH LOCK NUT 400GM",
+      "Rate": 40
+    },
+    {
+      "id": "e33a397e-bc1c-4ee5-8ac0-41e5393ef4a3",
+      "Product Name": "RIM 12 NO. REAR BULLET PROFILE 3.2 KG",
+      "Rate": 380
+    },
+    {
+      "id": "6e24ca51-c07f-460c-a6c8-60b0e3a9b454",
+      "Product Name": "GLASS RUBBER 27.5 / 28.5 URBOSI",
+      "Rate": 260
+    },
+    {
+      "id": "b1756fa6-f12e-4676-83db-32ce94b29d05",
+      "Product Name": "BEARING 999 GOLD 6301",
+      "Rate": 36
+    },
+    {
+      "id": "fc876a96-9494-4d19-8758-f06439064309",
+      "Product Name": "KAMANI SET HEAVY (ME) QSD 6 PATTI OEM TYPE",
+      "Rate": 1000
+    },
+    {
+      "id": "bd7ab488-adb6-40fc-90e6-78a7a5305ef6",
+      "Product Name": "REAR XL 17.2 INC 16T",
+      "Rate": 140
+    },
+    {
+      "id": "0ae44130-ded8-43c6-9a65-87838c208169",
+      "Product Name": "WHEEL CAP SET SMALL CHROME",
+      "Rate": 35
+    },
+    {
+      "id": "d5af8925-dcfc-4c05-bdb8-e382afb06a52",
+      "Product Name": "SIDE MIRROR ROUND WITH CLIP ICAT (ME)",
+      "Rate": 115
+    },
+    {
+      "id": "3c3c2ed7-21ce-4438-b684-98bc125859eb",
+      "Product Name": "MOTOR SENSOR PLATE BLACK",
+      "Rate": 20
+    },
+    {
+      "id": "cb2bc084-44c0-4dc8-9401-650f7fd51ea6",
+      "Product Name": "MOTOR SENSOR PLATE FOR LOADER",
+      "Rate": 220
+    },
+    {
+      "id": "b586f485-1190-4fc8-8f39-923d13fcf68d",
+      "Product Name": "OIL SEAL 20 35 7/9",
+      "Rate": 260
+    },
+    {
+      "id": "5d34cc23-b051-48c8-8d52-79a943e8a566",
+      "Product Name": "SHOCKER 43MM WITH SPRING ( KAP ) GOLD",
+      "Rate": 2500
+    },
+    {
+      "id": "e601258b-602c-4fdb-87c5-40fcc74c4a7f",
+      "Product Name": "JACK LIFT WITH ROD",
+      "Rate": 630
+    },
+    {
+      "id": "9823bfac-1f33-4557-bfba-4b71940245fa",
+      "Product Name": "CHARGING SOCKET AXIOM (KAP)",
+      "Rate": 144
+    },
+    {
+      "id": "38977428-0ed5-4330-a96d-c14a07138915",
+      "Product Name": "KAP SPEED CONTROLLER (O)",
+      "Rate": 2700
+    },
+    {
+      "id": "8c5fccca-cacb-4fe6-a853-cf6af7aedcc3",
+      "Product Name": "KAP CONTROLLER INTELLIGENT (4 LED)",
+      "Rate": 2400
+    },
+    {
+      "id": "bf455eb5-f855-4398-8230-836a711fb585",
+      "Product Name": "MOTOR SHAFT 216MM ( 1200 WATT )",
+      "Rate": 155
+    },
+    {
+      "id": "94be1e9d-3db2-4c83-98a2-baad5673dd84",
+      "Product Name": "MOTOR WIRE + SENSOR ( COMBO ) CHINESE",
+      "Rate": 440
+    },
+    {
+      "id": "d3a1ed34-a20b-46c7-b60d-fdee12bf4fb3",
+      "Product Name": "CONVERTOR 15AMP WATERPROOF (SILVER)",
+      "Rate": 170
+    },
+    {
+      "id": "7303edd8-a752-447f-9550-67905c922cf9",
+      "Product Name": "OIL SEAL 43 55 11",
+      "Rate": 330
+    },
+    {
+      "id": "a2552bab-5654-46b9-bdf1-21e712f69dd7",
+      "Product Name": "OIL SEAL 25 35 7",
+      "Rate": 170
+    },
+    {
+      "id": "7d046842-265e-4c34-8cae-4c5ae0ac758f",
+      "Product Name": "MOTOR SENSOR PLATE RED",
+      "Rate": 17
+    },
+    {
+      "id": "a61ce16e-bd72-4150-8877-7ab395623f37",
+      "Product Name": "THIMBLE FOR HORN",
+      "Rate": 0.9
+    },
+    {
+      "id": "6889ae5b-79ed-4322-ab24-030647199448",
+      "Product Name": "CAME SET MEDIUM DOUBLE PATTI 160 MM",
+      "Rate": 29
+    },
+    {
+      "id": "e82a56e2-e574-402b-a188-13a9b9c382a0",
+      "Product Name": "MOTOR 900 WATT 999 48V",
+      "Rate": 3900
+    },
+    {
+      "id": "e1a02325-3817-4c78-88aa-c8143c09afdc",
+      "Product Name": "KAMANI PLATE 5 HOLE HEAVY",
+      "Rate": 28
+    },
+    {
+      "id": "e3f7a01d-78b5-435c-8653-92d3fb345997",
+      "Product Name": "BRAKE PADDLE TOP OEM TYPE PANJA WALA",
+      "Rate": 25
+    },
+    {
+      "id": "20c19d7b-eee6-4b84-8943-266b8f348a84",
+      "Product Name": "GLASS SET FITTED 31 SMALL BLACK",
+      "Rate": 1020
+    },
+    {
+      "id": "853e5a7c-6d25-4eca-9c98-a28014bfe523",
+      "Product Name": "REAR XL 17.2 INC 18T",
+      "Rate": 140
+    },
+    {
+      "id": "1975f138-febe-4439-9262-1b4e767e9fff",
+      "Product Name": "CONVERTER 20 AMP AAHANA",
+      "Rate": 180
+    },
+    {
+      "id": "a4e31868-247f-4bbb-84d7-17451ab37781",
+      "Product Name": "REAR DRUM 14 NO. BIG 999 EXTRA HEAVY",
+      "Rate": 340
+    },
+    {
+      "id": "f5a8cc7d-aa00-46d0-b9af-407617549650",
+      "Product Name": "BACK HORN CHINA SODYCO",
+      "Rate": 42
+    },
+    {
+      "id": "89245ec6-1a0e-4a07-a067-97c083b6e92d",
+      "Product Name": "BACK HORN CHINA PANTHER 6 MUSIC",
+      "Rate": 38
+    },
+    {
+      "id": "b0f80c48-f05e-415d-b062-69bc68d2eaee",
+      "Product Name": "TYRE MRF 3/75/12",
+      "Rate": 1030
+    },
+    {
+      "id": "0c113894-a5ce-4d02-9b8e-a92bef1e86a5",
+      "Product Name": "CHARGER CHINA AAHANA DIGITAL",
+      "Rate": 1600
+    },
+    {
+      "id": "61b9d3f6-bc97-44e6-9074-8c965295178f",
+      "Product Name": "MOTOR 1000 WATT TNR",
+      "Rate": 4100
+    },
+    {
+      "id": "b6effbd1-a7bb-456f-a229-9d2545eb2743",
+      "Product Name": "GEAR BOX A5 TYPE",
+      "Rate": 1550
+    },
+    {
+      "id": "110de51c-e52b-4b0c-9805-f40d96dbcdbc",
+      "Product Name": "ASSELATOR SET DOUBLE BUTTON OEM TYPE 999",
+      "Rate": 185
+    },
+    {
+      "id": "6e935f58-73a7-403d-9233-94a040a187e7",
+      "Product Name": "ASSELATOR SINGLE UFENG WATERPROOF",
+      "Rate": 72
+    },
+    {
+      "id": "ddfcf88b-1d3d-4902-8556-f71cf5a6f9f2",
+      "Product Name": "BRAKE PADDLE SPRING",
+      "Rate": 6
+    },
+    {
+      "id": "b6f97eb5-d418-43c0-b5d4-7e67da10e7aa",
+      "Product Name": "TEE TOPI NUT MOTA CHURI",
+      "Rate": 17
+    },
+    {
+      "id": "971b42db-3d82-4156-a39e-c60bb0cd980d",
+      "Product Name": "BRAKE PADDLE HEAVY OEM TYPE",
+      "Rate": 90
+    },
+    {
+      "id": "a1377e03-b95c-4833-8378-d89d6d3c859d",
+      "Product Name": "DIFFENCIAL 42 INC CY",
+      "Rate": 4450
+    },
+    {
+      "id": "adfc3d78-dec9-4d4e-a66b-1d873ccab985",
+      "Product Name": "JUNCTION BOX YELLOW",
+      "Rate": 13
+    },
+    {
+      "id": "a6e3f3d2-8ed8-4487-b3bb-444558a11bec",
+      "Product Name": "CABIN LIGHT 8 INC",
+      "Rate": 45
+    },
+    {
+      "id": "3e6dc1b4-64f2-400c-b7c6-a72f85a8d527",
+      "Product Name": "SINGLE HORN (KAP)",
+      "Rate": 75
+    },
+    {
+      "id": "b52e7f35-d15c-4ae9-b1e7-f9616072325c",
+      "Product Name": "PARDA ARMY",
+      "Rate": 460
+    },
+    {
+      "id": "2ef0b3f7-8678-496f-ac48-6fc1cf428191",
+      "Product Name": "AXEL CHABI BIG",
+      "Rate": 3
+    },
+    {
+      "id": "2a7e8625-efd1-471f-8cf1-586024c8a219",
+      "Product Name": "WIRING WITHOUT BATTERY WIRE (KAP)",
+      "Rate": 460
+    },
+    {
+      "id": "ff6feedc-04ce-4af0-873c-637871f20fc1",
+      "Product Name": "FLASHER 3 PIN (LED) (KAP)",
+      "Rate": 38
+    },
+    {
+      "id": "74f8f02c-a4e0-406a-9a8b-89b9b8709f3f",
+      "Product Name": "IGNITION LOCK BABA",
+      "Rate": 35
+    },
+    {
+      "id": "ad45cba1-dde7-4260-b0c8-144aaddeabf6",
+      "Product Name": "REAR DRUM 14 NO. HEAVY (ME) SUPER",
+      "Rate": 320
+    },
+    {
+      "id": "16972aa7-705d-4174-ada1-c96431293174",
+      "Product Name": "GEAR BOX SILVER 18 T CY OK",
+      "Rate": 1000
+    },
+    {
+      "id": "7935814b-0081-4007-ae78-d8e2b0564bdb",
+      "Product Name": "BRAKE SWITCH",
+      "Rate": 14
+    },
+    {
+      "id": "6806ced6-14a2-471d-a07d-bc288645dee9",
+      "Product Name": "MOTOR SAFT 900 WATT",
+      "Rate": 115
+    },
+    {
+      "id": "223a77bf-c327-48b5-8e88-38387a0ef75c",
+      "Product Name": "MOTOR SAFT 850 WATT 186 MM AAHANA",
+      "Rate": 125
+    },
+    {
+      "id": "5776231e-a593-499c-a9f0-dfeccab8d3cc",
+      "Product Name": "SWITCH BUTTON FOR INDICATOR",
+      "Rate": 5
+    },
+    {
+      "id": "e4fd8f71-d05a-454b-9164-1d6c2e3fd338",
+      "Product Name": "BATTERY ROD 8 MM 12 INC WITH LOCK NUT",
+      "Rate": 12
+    },
+    {
+      "id": "239af75b-06f0-4b62-b96e-164b99954469",
+      "Product Name": "HEAD LIGHT WITH BULB DRL LED",
+      "Rate": 200
+    },
+    {
+      "id": "1c07a976-a52a-47bf-a500-80ddab907ba9",
+      "Product Name": "GLASS RUBBER CHINA 31 INC",
+      "Rate": 140
+    },
+    {
+      "id": "f67941fc-6068-4c67-ab32-21f784ae8938",
+      "Product Name": "MOTOR WIRE HEAVY 999*",
+      "Rate": 340
+    },
+    {
+      "id": "52df6850-5412-40f8-bc0d-a9137b13cad9",
+      "Product Name": "HAND BRAKE WIRE 14 INC",
+      "Rate": 25
+    },
+    {
+      "id": "ff1fded0-3faa-4aff-b8af-77b62334900a",
+      "Product Name": "KAMANI SPECIAL RUBBER BUSH",
+      "Rate": 6.5
+    },
+    {
+      "id": "9f534d42-1311-48dc-9534-d203bf5a54b2",
+      "Product Name": "DRUM PULLER",
+      "Rate": 215
+    },
+    {
+      "id": "bdf7b96f-158f-4959-86e2-a215c4e56351",
+      "Product Name": "AXLE FRONT 15MM 11.0\" (BA)",
+      "Rate": 49
+    },
+    {
+      "id": "962ba003-483c-40e2-b299-e493717075e9",
+      "Product Name": "AXLE LOCKNUT FRONT 15MM",
+      "Rate": 7
+    },
+    {
+      "id": "1d9512e6-59c8-4efe-96fa-ca90d1ac78d4",
+      "Product Name": "LOCKNUT REAR AXLE 6205",
+      "Rate": 18
+    },
+    {
+      "id": "7a0cc5f0-0410-4ab2-b1de-bc817d7401c0",
+      "Product Name": "JACK DOUBLE",
+      "Rate": 640
+    },
+    {
+      "id": "2e466a0e-521f-4f57-80cc-10da19b3b22c",
+      "Product Name": "MAKHI NORMAL",
+      "Rate": 5.5
+    },
+    {
+      "id": "ffba3930-9319-4d05-94d8-f756798ce4a5",
+      "Product Name": "NUT BOLT MUDGUARD 43MM",
+      "Rate": 3.5
+    },
+    {
+      "id": "0df55a08-839f-4b55-8425-f30b4a8c076a",
+      "Product Name": "STUD WASHER PLAIN",
+      "Rate": 2
+    },
+    {
+      "id": "1e2d2ca2-64f8-49ab-9782-546d3691a827",
+      "Product Name": "10 T SIDE NUT BOLT BIG",
+      "Rate": 6
+    },
+    {
+      "id": "a67c806d-7ad4-46ee-97e0-a1d8dea243eb",
+      "Product Name": "MULTI HUB 6304 EX",
+      "Rate": 380
+    },
+    {
+      "id": "72ad332d-4fac-4571-9ba9-053026a6b4cc",
+      "Product Name": "U BOLT CARBON (LOADER)",
+      "Rate": 36
+    },
+    {
+      "id": "124bb040-b97a-4766-8d15-366afa29492c",
+      "Product Name": "BEARING 30205 NBC",
+      "Rate": 67
+    },
+    {
+      "id": "9e933e91-96c4-4d75-af6c-b1061e622201",
+      "Product Name": "KAMANI JHULA HEAVY WITH LOCK NUT 350GM",
+      "Rate": 36
+    },
+    {
+      "id": "eddeda96-8459-485c-a811-e0d4075a34d8",
+      "Product Name": "BUTTER FLY QSD",
+      "Rate": 400
+    },
+    {
+      "id": "e9a1abcf-99a7-458f-b473-fb4535e98d14",
+      "Product Name": "MULTI HUB CHINA (QSD) 6301*",
+      "Rate": 195
+    },
+    {
+      "id": "2b2502fa-faf6-455b-9f63-a81939a252f4",
+      "Product Name": "ALLOY WHEEL RIM COLOUR",
+      "Rate": 820
+    },
+    {
+      "id": "31524870-3f8d-4072-999a-a55e3edabfaf",
+      "Product Name": "STUD WASHER",
+      "Rate": 1
+    },
+    {
+      "id": "22501f04-11c7-4fd2-9fcc-3692655948bb",
+      "Product Name": "BRAKE ROD 45 INC",
+      "Rate": 52
+    },
+    {
+      "id": "f36f939a-74e3-425d-9df2-7ac0886e6acd",
+      "Product Name": "GEAR BOX BLACK ETRON NEW MODEL 18-T",
+      "Rate": 1100
+    },
+    {
+      "id": "2d83fbf2-5ab7-446a-9edb-54b0a8ec4c56",
+      "Product Name": "CHARGER AXIOM 15 AMP",
+      "Rate": 3250
+    },
+    {
+      "id": "27c95ff2-cad1-4ffb-b0ed-541d255a765b",
+      "Product Name": "RIM 14 NO. REAR HEAVY COLOUR 3.5 KG",
+      "Rate": 490
+    },
+    {
+      "id": "c17f1b04-6781-413c-9220-0228562acb96",
+      "Product Name": "ASSELATOR SET DOUBLE BUTTON COLOUR",
+      "Rate": 95
+    },
+    {
+      "id": "01ca101d-2a32-49a9-ad32-bf60a636975f",
+      "Product Name": "ASSELATOR SET UFENG WATERPROOF AAHANA",
+      "Rate": 95
+    },
+    {
+      "id": "8c5b4b63-36ce-4581-af05-18bf577f6490",
+      "Product Name": "FM MUSIC BOOSTER DHOL",
+      "Rate": 530
+    },
+    {
+      "id": "5a6010de-0188-4b2f-bdf8-07f9b8a6a0dd",
+      "Product Name": "KAMANI SET HEAVY (ME) QSD 6 PATTI CEM TYPE",
+      "Rate": 1000
+    },
+    {
+      "id": "4b46bc4c-7f48-47a9-a573-9d6fd32f8c72",
+      "Product Name": "MOTOR 900 WATT 999",
+      "Rate": 4450
+    },
+    {
+      "id": "9c4dc822-b8f0-46f0-81f1-83b3a10ad649",
+      "Product Name": "HYDROLIC SHOCKER 43 MM AAHANA 9.2 KG WITH SINGLE BOX PACKING",
+      "Rate": 1870
+    },
+    {
+      "id": "026eeddc-b34d-414c-b4d8-915274682698",
+      "Product Name": "HYDROLIC SHOCKER 43 MM WITH SPRING 31 INC 999",
+      "Rate": 2450
+    },
+    {
+      "id": "19dfe9fd-9277-4650-b241-ec6dd8ff1a15",
+      "Product Name": "LEFT RIGHT SWITCH UFENG PVC",
+      "Rate": 100
+    },
+    {
+      "id": "2ce2e4a6-0a51-45a7-885b-62e449609241",
+      "Product Name": "CONTROLLER AAHANA GOLDEN 50 AMP 48/60 V",
+      "Rate": 2000
+    },
+    {
+      "id": "89d5e08a-2181-4651-b8d8-7e75a41c4927",
+      "Product Name": "CENTER LOCK WITH REMOTE AND KEY AAHANA",
+      "Rate": 220
+    },
+    {
+      "id": "3f4655dd-dfb2-4c99-8667-6fe7e80aac2b",
+      "Product Name": "SHOE LOCK",
+      "Rate": 55
+    },
+    {
+      "id": "7607d2fe-183b-4fba-9d5e-b26e13072bf0",
+      "Product Name": "THIMBLE FOR CUPPLER",
+      "Rate": 0.75
+    },
+    {
+      "id": "45dd264d-5e63-49b0-88b9-3cc7a2c03417",
+      "Product Name": "TEE CHEK NUT MOTA CHURI*",
+      "Rate": 20
+    },
+    {
+      "id": "c7ca3f45-2699-4c19-8dba-2595402e8b0f",
+      "Product Name": "DRUM PLATE 14 NO. SMALL BHOGLI HEAVY (ME)",
+      "Rate": 135
+    },
+    {
+      "id": "15c0724b-fc0b-48f1-bc4b-0720993ac4b7",
+      "Product Name": "CHARGER AXIOM 18 AMP",
+      "Rate": 3850
+    },
+    {
+      "id": "b1e28185-d6d3-49ec-b8b8-4a5466bb8c68",
+      "Product Name": "GLASS SET FITTED 39 BIG",
+      "Rate": 1200
+    },
+    {
+      "id": "27e9f2a9-c690-422a-9a51-f0eb81e21ee1",
+      "Product Name": "U BOLT HEAVY BIG WITH LOCK NUT",
+      "Rate": 26
+    },
+    {
+      "id": "578c2407-6f8d-4d06-85f1-c4ada4c9307b",
+      "Product Name": "STUD WASHER PLANE",
+      "Rate": 1.5
+    },
+    {
+      "id": "8861c4f2-dedb-4fd7-a9f8-75a6b88a9d94",
+      "Product Name": "FRONT AXEL 15MM",
+      "Rate": 52
+    },
+    {
+      "id": "26aaf750-fc23-4f90-9950-8f0230146c45",
+      "Product Name": "STUD NUT (FEMALE)",
+      "Rate": 4.8
+    },
+    {
+      "id": "605285c6-4a04-4236-b04a-9c0edf4f19b9",
+      "Product Name": "L/R SWITCH QSD (PVC)",
+      "Rate": 105
+    },
+    {
+      "id": "791ef3e7-ef26-4e5f-9628-e3f711c3c6ad",
+      "Product Name": "L/R SWITCH YF (PVC)",
+      "Rate": 95
+    },
+    {
+      "id": "413f7fbe-48f5-49cb-8cdd-43e534f9322f",
+      "Product Name": "CENTER MIRROR BIG (CURVE)",
+      "Rate": 60
+    },
+    {
+      "id": "babad7e1-4861-4a28-98dc-20e7682484dc",
+      "Product Name": "ACCELERATOR YUFENG",
+      "Rate": 67
+    },
+    {
+      "id": "44f2f3e5-cfb3-4a60-81a5-c2e518d4734d",
+      "Product Name": "ACCELERATOR (COLOUR) (SINGLE) YF",
+      "Rate": 57
+    },
+    {
+      "id": "f0f160d8-2577-46e7-b985-ff567e410888",
+      "Product Name": "CONVERTOR 10AMP (CY)",
+      "Rate": 75
+    },
+    {
+      "id": "81b3c0c2-39e8-44a0-ae8f-e6f73adaa9c6",
+      "Product Name": "CONVERTOR 15 AMP (CY)",
+      "Rate": 95
+    },
+    {
+      "id": "d050900c-957a-47ca-b010-2e87d649d94d",
+      "Product Name": "ACCELERATOR SINGLE (SPORTS) YUFENG",
+      "Rate": 43
+    },
+    {
+      "id": "b05ae851-00f8-4ede-976e-237767b98dd9",
+      "Product Name": "MOTOR SENSOR",
+      "Rate": 14
+    },
+    {
+      "id": "89b05630-9843-450b-a28a-f4e57945c760",
+      "Product Name": "METER DIGITAL TABLET WITH MEMORY (QS1)",
+      "Rate": 145
+    },
+    {
+      "id": "e31049e4-e602-4be2-a1b2-85deb75a1591",
+      "Product Name": "REAR XL ROD 16TEETH 17.5\"",
+      "Rate": 148
+    },
+    {
+      "id": "ab051c19-99ad-4689-bd8c-31b95b074f1a",
+      "Product Name": "REAR XL ROD 16TEETH 17.2\"",
+      "Rate": 148
+    },
+    {
+      "id": "9dc5ad8c-c745-4c86-a135-c12b14d43c9a",
+      "Product Name": "MULTI HUB 6302",
+      "Rate": 179
+    },
+    {
+      "id": "5bf6c773-4a59-40d2-9bea-092302622e00",
+      "Product Name": "TYRE MRF (ORIGINAL) (3.75X12)",
+      "Rate": 1005
+    },
+    {
+      "id": "ec83fe48-c557-4955-a7b2-f00e384218f9",
+      "Product Name": "TYRE JK 3-75-12",
+      "Rate": 830
+    },
+    {
+      "id": "9171d417-6ab9-429e-84c9-12bc8fd6147b",
+      "Product Name": "MOTOR 1200WATT 4WIRE (V3 TURBO)",
+      "Rate": 3750
+    },
+    {
+      "id": "e39eee2c-7865-4fd5-a3de-b773f389b47a",
+      "Product Name": "SWITCH BUTTON FOR ASSELATOR F/R",
+      "Rate": 5
+    },
+    {
+      "id": "800ec61f-93ce-404e-8526-b5d9265c953f",
+      "Product Name": "FOOT ASSELATOR",
+      "Rate": 243
+    },
+    {
+      "id": "3c1fc9b0-6891-48c4-b738-2f3f9e670f8c",
+      "Product Name": "KAMANI PLATE 5 HOLE 3 MM",
+      "Rate": 22
+    },
+    {
+      "id": "97e0626d-950f-4def-9b7e-992a763b1123",
+      "Product Name": "MOTOR SENSOR WIRE HEAVY 999",
+      "Rate": 145
+    },
+    {
+      "id": "da8a905d-49ae-4c4e-a88b-e12b70c4352c",
+      "Product Name": "HORN BUTTON WITH PATTI",
+      "Rate": 6
+    },
+    {
+      "id": "226861d6-2c5f-4bab-a8b8-86facab6b0cd",
+      "Product Name": "HANDLE TEE NUT BOLT",
+      "Rate": 5
+    },
+    {
+      "id": "d067171a-1a67-4d31-a91a-b5c1c1810ed6",
+      "Product Name": "MANDIR GEAR NEW 16 T FRESH 999",
+      "Rate": 360
+    },
+    {
+      "id": "4fdd5492-823b-4606-97ea-c9461baf5bba",
+      "Product Name": "FLASHER WITH BUZZER 3 PIN TELCO I CAT (ME)*",
+      "Rate": 45
+    },
+    {
+      "id": "9b10d5bb-2e80-4dda-8b81-8388b39aa0f7",
+      "Product Name": "WIPER BLADE",
+      "Rate": 50
+    },
+    {
+      "id": "10ea911a-1e4a-408b-85f0-c06321901d48",
+      "Product Name": "CHINA BABA",
+      "Rate": 36
+    },
+    {
+      "id": "8af50ba0-5f46-4e31-8810-1d82f0fac9da",
+      "Product Name": "METRO HANDLE NORMAL",
+      "Rate": 16
+    },
+    {
+      "id": "f4e7cd53-f12c-4c16-b3e3-6f7cd4679563",
+      "Product Name": "CUPPLER SET 2 PIN",
+      "Rate": 5
+    },
+    {
+      "id": "b8d213d9-c99b-4b04-9e7e-c40431ca4ad5",
+      "Product Name": "CUPPLER SET 3 PIN",
+      "Rate": 5
+    },
+    {
+      "id": "31fc748a-3491-4f5f-9f22-a5b26a93262d",
+      "Product Name": "JHULA FOR LOADER BIG LONG",
+      "Rate": 80
+    },
+    {
+      "id": "afa47620-ccd1-48fa-ad69-1043730f7bc6",
+      "Product Name": "CONVERTER 20 AMP ECO PANTHER",
+      "Rate": 180
+    },
+    {
+      "id": "44cee94a-726f-4209-90a6-16d2155d90d1",
+      "Product Name": "REAR XL FOR LOADER 6T 23 INC INDIAN (6206)",
+      "Rate": 560
+    },
+    {
+      "id": "10d153bd-1fcc-4357-adde-be35f29c76a7",
+      "Product Name": "REAR XL FOR LOADER 6T 24 INC INDIAN (6206)",
+      "Rate": 580
+    },
+    {
+      "id": "dd9d679d-777e-459d-963a-bd6c3e93e52d",
+      "Product Name": "MOTOR HRS 1000 GOLD",
+      "Rate": 3500
+    },
+    {
+      "id": "22a5f7c6-b3d9-426e-bbd2-6dba7d59bf81",
+      "Product Name": "CONTROLLER 1000W 50 AMP",
+      "Rate": 2300
+    },
+    {
+      "id": "58db4ff5-f65f-4796-9dea-2190371f4b78",
+      "Product Name": "MOTOR SENSOR PLATE",
+      "Rate": 17
+    },
+    {
+      "id": "ae881d84-429e-4c76-a1e8-81881645c5ca",
+      "Product Name": "FM RADIO WITH BLUETOOTH & USB PLAYER (ME)",
+      "Rate": 340
+    },
+    {
+      "id": "3801f9da-7df2-4746-8f8a-c6babb03708b",
+      "Product Name": "DUST CAP SEAL 43 55",
+      "Rate": 340
+    },
+    {
+      "id": "ad7886ca-4ea2-4020-bf89-23cac8771336",
+      "Product Name": "BACK LIGHT JALI BIG SQUARE",
+      "Rate": 80
+    },
+    {
+      "id": "c6ca5960-6f45-4f1a-ad83-52b8fc69a5ea",
+      "Product Name": "FRONT XL 12 MM 9.5 INC CHINA",
+      "Rate": 35
+    },
+    {
+      "id": "3a51b68b-6646-4699-b71e-a37f77273c50",
+      "Product Name": "METER HALF DIGITAL",
+      "Rate": 200
+    },
+    {
+      "id": "532fca36-ea7e-4bfc-8647-d0f8245e885b",
+      "Product Name": "FOG LIGHT 6 LED SSLG SET OF TWO",
+      "Rate": 70
+    },
+    {
+      "id": "29c66722-0c66-4c95-9dbc-dd62becdc697",
+      "Product Name": "REMOTE SYSTEM (ATHOME)",
+      "Rate": 2200
+    },
+    {
+      "id": "1c4e5b36-8f2d-4685-836b-0af1528d1cf5",
+      "Product Name": "DRUM PLATE 14 NO SMALL BHOGLI BEARING TYPE",
+      "Rate": 130
+    },
+    {
+      "id": "ccfafe43-38d3-4dc1-a06f-585ce19492ac",
+      "Product Name": "METER FULL DIGITAL TAB CY WITH MEMORY",
+      "Rate": 175
+    },
+    {
+      "id": "d583861f-68f3-48c1-b982-41b400307263",
+      "Product Name": "FOG LIGHT 12 LED SSLG COPY",
+      "Rate": 50
+    },
+    {
+      "id": "d4a1b231-e17f-445c-8a46-14419a9ac684",
+      "Product Name": "FOG LIGHT 9 LED SSLG COPY",
+      "Rate": 42
+    },
+    {
+      "id": "3d8617fd-5515-45ce-a9b8-42d7d1d67fc3",
+      "Product Name": "FULL PARDA FOR RICKSHAW BODY COVER",
+      "Rate": 420
+    },
+    {
+      "id": "9ed6707a-9397-4280-b6c7-7155b1742473",
+      "Product Name": "FULL PARDA MALETRY",
+      "Rate": 430
+    },
+    {
+      "id": "bf850f9a-ab38-44d9-b028-d8062fca60b2",
+      "Product Name": "BALANCING ROD SET NORMAL 9 INC",
+      "Rate": 130
+    },
+    {
+      "id": "1f68435e-b116-405c-ae7f-d0343da6b65e",
+      "Product Name": "CONTROLLER CY A8 GOLDEN 50 AMP",
+      "Rate": 1450
+    },
+    {
+      "id": "5cdbc870-ad4b-4f33-95c4-52fd9beb8d17",
+      "Product Name": "REAR XL 21 INC 18 T",
+      "Rate": 480
+    },
+    {
+      "id": "fe58ab21-fe30-41f4-94f0-5702b6ec6d62",
+      "Product Name": "FULL PARDA",
+      "Rate": 360
+    },
+    {
+      "id": "8e948d3c-73e3-4a21-9506-b9f600bc0c06",
+      "Product Name": "KAAN SET BLACK 43 MM SPEED",
+      "Rate": 60
+    },
+    {
+      "id": "b25d62d9-f273-4465-9413-b125a54921de",
+      "Product Name": "KAMANI PLATE 5 HOLE 5 MM",
+      "Rate": 28
+    },
+    {
+      "id": "6e6d47a6-bca7-41ff-8788-0176b932fdca",
+      "Product Name": "METRO HANDLE YELLOW BIG OEM TYPE",
+      "Rate": 24
+    },
+    {
+      "id": "a9d7bf6f-5042-4cea-91a7-ea9e5eae5c88",
+      "Product Name": "ONLY GLASS 31 INC INDIAN",
+      "Rate": 530
+    },
+    {
+      "id": "6651ea0a-b330-4471-8962-010f8c9ed2bf",
+      "Product Name": "GLASS SET FITTED 31 SMALL STEEL",
+      "Rate": 1250
+    },
+    {
+      "id": "6bb53043-0b28-437f-b084-1e8dcacad62f",
+      "Product Name": "DRUM STUD NUT ALLOY WALA",
+      "Rate": 7
+    },
+    {
+      "id": "05ddbe76-caad-42f2-98c5-8f2961598df6",
+      "Product Name": "REAR XL 17.8 INC 18 T",
+      "Rate": 150
+    },
+    {
+      "id": "b09fe6b6-f02d-47c4-8069-125b22a704b1",
+      "Product Name": "DRUM PLATE 180 MM FOR LOADER BEARING TYPE",
+      "Rate": 160
+    },
+    {
+      "id": "52244dcc-535e-4990-b9cb-a968094d6ea4",
+      "Product Name": "HEAD LIGHT 37 LED",
+      "Rate": 500
+    },
+    {
+      "id": "d067de2a-a9e0-4a15-9e58-866823ff040e",
+      "Product Name": "BRAKE PADDLE TANA SPRING HEAVY",
+      "Rate": 6
+    },
+    {
+      "id": "01acd582-fc8d-444c-affe-973fe0cba204",
+      "Product Name": "IRON ROOF BIG SQUARE 12 KG",
+      "Rate": 1150
+    },
+    {
+      "id": "8d51f72a-bffc-47d3-bc4a-cb0b45421789",
+      "Product Name": "BEEDING ROLL 100MTR CHINESE",
+      "Rate": 1350
+    },
+    {
+      "id": "3191e45f-d77b-43e2-bc9e-a5161c7a0161",
+      "Product Name": "CENTER MIRROR BIG",
+      "Rate": 60
+    },
+    {
+      "id": "d6d788f5-2aee-4d8a-8cc0-e65bc951a393",
+      "Product Name": "HEAD LIGHT 8 LED",
+      "Rate": 300
+    },
+    {
+      "id": "3147e61c-c7c0-402d-9921-71679df7e0da",
+      "Product Name": "SHOCKER 9 INCH",
+      "Rate": 210
+    },
+    {
+      "id": "bf56519f-dfce-4afd-a1fb-4e8e3337550d",
+      "Product Name": "MOTOR 900 WATT AAHANA ORIGINAL CY TYPE",
+      "Rate": 3250
+    },
+    {
+      "id": "95d48585-b2d9-41e7-bdfe-a61eb69bfb5c",
+      "Product Name": "REAR DRUM EXTRA HEAVY 14 NO. BIG 999",
+      "Rate": 350
+    },
+    {
+      "id": "c2c6a994-dceb-4495-9e1b-797eb20db7bf",
+      "Product Name": "REAR XL BUSH",
+      "Rate": 3.5
+    },
+    {
+      "id": "1967de90-8ce8-405a-b5d9-9a2b79c567ef",
+      "Product Name": "ASSELATOR SET UFENG OEM TYPE CY BOX",
+      "Rate": 100
+    },
+    {
+      "id": "1a4cfea6-2fd1-4468-82cb-468a2844a43c",
+      "Product Name": "MOTOR 1000 WATT AAHANA BLUE",
+      "Rate": 3600
+    },
+    {
+      "id": "bacf4802-4043-477e-82e7-1146ff0dea0e",
+      "Product Name": "FLASHER WITH BUZZER 2 PIN AAHANA*",
+      "Rate": 25
+    },
+    {
+      "id": "a7e45d45-98f2-42f2-bed7-0133ddcbb1cd",
+      "Product Name": "MOTOR SAFT 1200 WATT 226 MM 999",
+      "Rate": 180
+    },
+    {
+      "id": "79f9bb43-7063-436e-8c0f-caa7ad8341f9",
+      "Product Name": "METRO HANDLE CARD WALA TRANSPARENT",
+      "Rate": 35
+    },
+    {
+      "id": "e781fecf-3738-41f4-95fb-92ac79fd5cbe",
+      "Product Name": "SHOCKER PIPE 43 MM CHINA",
+      "Rate": 400
+    },
+    {
+      "id": "4437a2e6-7460-4a0e-b66d-609a9edb21d2",
+      "Product Name": "HYDROLIC SHOCKER 43 MM WITH SPRING & REFLECTOR SILVER 10 KG",
+      "Rate": 1900
+    },
+    {
+      "id": "6cfd19d9-4c19-44f3-b70a-c7cb2dbf3ba2",
+      "Product Name": "MCB AAHANA 63 AMP",
+      "Rate": 55
+    },
+    {
+      "id": "a1f5f4b6-98df-4ec3-a7be-5c03ec91edc3",
+      "Product Name": "BACK HORN AAHANA",
+      "Rate": 34
+    },
+    {
+      "id": "884e2b14-7dc1-4a52-9e6c-6d2da639df11",
+      "Product Name": "ASSELATOR SET OEM TYPE GOLDEN RING YF",
+      "Rate": 250
+    },
+    {
+      "id": "d0af6692-d55c-4257-9a36-21669dbd317a",
+      "Product Name": "TIE BELT 8 INC",
+      "Rate": 35
+    },
+    {
+      "id": "b4e37c4d-6aec-4e96-a763-e33324350a66",
+      "Product Name": "TIE BELT 6 INC",
+      "Rate": 35
+    },
+    {
+      "id": "f9a6244a-cda0-4ea2-9997-540bc6cd758e",
+      "Product Name": "MOTOR SAFT HEAD 14/20",
+      "Rate": 220
+    },
+    {
+      "id": "7cb18691-32b7-4976-971f-ccbf374bbc48",
+      "Product Name": "MOTOR SAFT 1200 WATT A5 TYPE",
+      "Rate": 220
+    },
+    {
+      "id": "6394e2f7-f55f-4e3b-9509-02f34bccdc32",
+      "Product Name": "REAR SHOCKER 9.5 INC HY QUALITY",
+      "Rate": 210
+    }
+  ]
+}
